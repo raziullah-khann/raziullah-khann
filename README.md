@@ -48,7 +48,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="10" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://www.typescriptlang.org/docs/handbook/declaration-files/library-structures.html)" height="40" alt="mongodb logo"  />
+  <img src="[[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://www.typescriptlang.org/docs/handbook/declaration-files/library-structures.html](https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png))](https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png)" height="40" alt="Typescript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="10" />
