@@ -2,36 +2,31 @@
 <!--   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/> -->
 </div>
 
-<h1 align="center">Hi 👋, I'm Lav Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Raziullah Khan</h1>
 <h3 align="center">Aspiring Full Stack MERN Developer</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=lav-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="lav-kushwaha"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=raziullah-khann&label=Profile%20views&color=0e75b6&style=flat" alt="raziullah-khann"/> </p>
 
 ###
 ###
 
 <h3 align="left">👩‍💻  About Me :</h3>
 
-- 🌱 I’m currently learning **MERN STACK & DSA.**
+- 🌱 I’m currently learning **NodeJs.**
 
 - 🤝 I’m looking for job opportunity as a **Full Stack MERN Developer.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lav-kushwaha](https://github.com/lav-kushwaha)
+- 👨‍💻 All of my projects are available at [https://github.com/raziullah-khann](https://github.com/raziullah-khann)
 
-- 🧑🏾‍🎓 My Portfolio Link [https://lav-kushwaha.web.app/](https://lav-kushwaha.web.app/)
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, REACTJS, MYSQL, ASP DOT NET.**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, MERN, MYSQL, ASP DOT NET.**
-
-- 📫 How to reach me **lavkumar1224@gmail.com**
-
-- ⚡Fun fact I love creating content. [https://youtube.com/@LavKushwaha](https://youtube.com/@LavKushwaha)
+- 📫 How to reach me **raziullahkhan25@gmail.com**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/lavkushwaha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavkushwaha_" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/lavkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lavkushwaha/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/itz_lav_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz_lav_/" height="30" width="40" /></a>
-<a href="https://youtube.com/@lavkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@lavkushwaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raziullahkhan25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raziullak-khann/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raziullah3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raziullah3/" height="30" width="40" /></a>
 </p>
 
 ###
@@ -94,7 +89,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raziullah-khann&show_icons=true&locale=en&layout=compact" alt="lav-kushwaha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raziullah-khann&show_icons=true&locale=en&layout=compact" alt="raziullah-khann" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raziullah-khann&show_icons=true&locale=en" alt="raziullah-khann" /></p>
 
