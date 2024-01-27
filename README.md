@@ -1,8 +1,10 @@
 <div align="center">
 <!--   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/> -->
 </div>
-<img src="https://assets-v2.lottiefiles.com/a/4bac5fc2-1167-11ee-8a4a-1779c9fbd7bf/Cpx8JAjE84.gif" height="200" width="200" alt="rk">
+<div align="center">
 <h1 align="center">Hi 👋, I'm Raziullah Khan</h1>
+  <img src="./xyz.gif" height="350" width="350">
+</div>
 <h3 align="center">Aspiring Full Stack MERN Developer</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=raziullah-khann&label=Profile%20views&color=0e75b6&style=flat" alt="raziullah-khann"/> </p>
