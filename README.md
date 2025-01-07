@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/raziullah-khann](https://github.com/raziullah-khann)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, REACTJS, MYSQL, ASP DOT NET.**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, REACTJS, MYSQL, NODE, EXPRESS.**
 
 - 📫 How to reach me **raziullahkhan25@gmail.com**
 
@@ -62,9 +62,9 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+<!--   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  /> -->
+<!--   <img width="10" /> -->
+  <img src="https://wallpapers.com/images/hd/microsoft-s-q-l-server-logo-3yoe1mht8zxy6s3a-2.jpg" height="40" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="10" />
