@@ -76,6 +76,10 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="10" />
+  <img src="https://t3.ftcdn.net/jpg/01/89/14/02/360_F_189140286_D2LpVUO8Uhac5kvToTTmcBzUOqgJUV3X.jpg" height="40" alt="git logo"  />
+  <img width="10" />
+  <img src="https://www.gravitee.io/hubfs/graphql.png" height="40" alt="git logo"  />
+  <img width="10" />
 </div>
 
 ###
